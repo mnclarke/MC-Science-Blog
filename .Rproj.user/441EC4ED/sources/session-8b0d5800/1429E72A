@@ -1,14 +1,14 @@
 {
-    "id": "165882A3",
+    "id": "1429E72A",
     "path": "~/MC Science Blog/docs/posts/Molecular Biology Downloadable Notes/Notes upload 1.qmd",
     "project_path": "docs/posts/Molecular Biology Downloadable Notes/Notes upload 1.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3027089627",
     "contents": "",
     "dirty": false,
-    "created": 1725758476677.0,
+    "created": 1725761576719.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 2,
     "properties": {
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
@@ -19,14 +19,14 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "206:0"
+        "rmdVisualModeLocation": "210:777.5999755859375"
     },
     "folds": "",
-    "lastKnownWriteTime": 1725760800,
+    "lastKnownWriteTime": 1725762316,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1725760800729,
+    "last_content_update": 1725762316175,
     "read_only": false,
     "read_only_alternatives": []
 }
