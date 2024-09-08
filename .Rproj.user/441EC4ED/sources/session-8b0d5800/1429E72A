@@ -3,7 +3,7 @@
     "path": "~/MC Science Blog/docs/posts/Molecular Biology Downloadable Notes/Notes upload 1.qmd",
     "project_path": "docs/posts/Molecular Biology Downloadable Notes/Notes upload 1.qmd",
     "type": "quarto_markdown",
-    "hash": "3027089627",
+    "hash": "1543474783",
     "contents": "",
     "dirty": false,
     "created": 1725761576719.0,
@@ -19,14 +19,14 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "210:777.5999755859375"
+        "rmdVisualModeLocation": "713:2472"
     },
     "folds": "",
-    "lastKnownWriteTime": 1725762316,
+    "lastKnownWriteTime": 1725764655,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1725762316175,
+    "last_content_update": 1725764655491,
     "read_only": false,
     "read_only_alternatives": []
 }

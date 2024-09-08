@@ -16,10 +16,13 @@ Download my handwritten notes below. *Disclaimer: notes are handwritten study ma
 
 [![](Genetic%20processes—%20Transcription%20&%20Translation.png)](https://github.com/mnclarke/mnclarke.github.io/blob/main/docs/posts/Molecular%20Biology%20Downloadable%20Notes/Genetic%20Processes-Transcription%20and%20translation.pdf)
 
--   [Click here to download "Genetic Processes-Transcription and Translation"](https://github.com/mnclarke/mnclarke.github.io/blob/main/docs/posts/Molecular%20Biology%20Downloadable%20Notes/Genetic%20Processes-Transcription%20and%20translation.pdf)
-
+```{=html}
+<a href="Genetic%20Processes-Transcription%20and%20translation.pdf"download>Click here to download "Genetic Processes-Transcription and Translation"</a>
+```
 <br>
 
 [![](The%20Biology%20and%20Genetics%20of%20Bacteriophage%20Lamda.png)](https://github.com/mnclarke/mnclarke.github.io/blob/main/docs/posts/Molecular%20Biology%20Downloadable%20Notes/The%20biology%20and%20genetics%20of%20Bacteriophage%20Lamda.pdf)
 
--   [Click here to download "The Biology and Genetics of Bacteriophage Lamda](https://github.com/mnclarke/mnclarke.github.io/blob/main/docs/posts/Molecular%20Biology%20Downloadable%20Notes/The%20biology%20and%20genetics%20of%20Bacteriophage%20Lamda.pdf)
+```{=html}
+<a href="The%20biology%20and%20genetics%20of%20Bacteriophage%20Lamda.pdf"download>Click here to download "The Biology and Genetics of Bacteriophage Lamda"</a>
+```
