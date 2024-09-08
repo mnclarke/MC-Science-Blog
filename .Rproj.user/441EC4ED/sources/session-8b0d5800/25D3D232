@@ -3,7 +3,7 @@
     "path": "~/MC Science Blog/about.qmd",
     "project_path": "about.qmd",
     "type": "quarto_markdown",
-    "hash": "1431668623",
+    "hash": "1206634543",
     "contents": "",
     "dirty": false,
     "created": 1725762861995.0,
@@ -18,14 +18,14 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "444:96"
+        "rmdVisualModeLocation": "489:96"
     },
     "folds": "",
-    "lastKnownWriteTime": 1725764052,
+    "lastKnownWriteTime": 1725764819,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1725764052594,
+    "last_content_update": 1725764819817,
     "read_only": false,
     "read_only_alternatives": []
 }
